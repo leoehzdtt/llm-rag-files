@@ -1,0 +1,2434 @@
+El siguiente es un listado de todas las cuentas existentes separadas cada una por una nueva linea:
+ACTIVO
+	Efectivo y equivalentes de efectivo								
+		Caja							
+		Bancos							
+			Depósitos en Banco de México						
+			Depósitos en otras entidades financieras						
+			Divisas a entregar						
+		Documentos de cobro inmediato							
+		Metales preciosos amonedados							
+		Instrumentos financieros de alta liquidez							
+		Efectivo y equivalentes de efectivo restringidos o dados en garantía							
+			Banco de México						
+			Préstamos interbancarios (Call Money)						
+			Divisas a recibir						
+			Efectivo administrado en fideicomiso						
+			Otros						
+		Otros							
+	Cuentas de margen (instrumentos financieros derivados)								
+		Efectivo							
+		Inversiones en instrumentos financieros							
+		Otros activos							
+	Inversiones en instrumentos financieros								
+		Instrumentos financieros negociables							
+			Instrumentos financieros negociables sin restricción						
+				Deuda gubernamental					
+					En posición				
+					Por entregar				
+				Deuda bancaria					
+					En posición				
+					Por entregar				
+				Otros títulos de deuda					
+					En posición				
+					Por entregar				
+				Instrumentos financieros de capital					
+					En posición				
+					Por entregar				
+			Instrumentos financieros negociables restringidos o dados en garantía en operaciones de reporto						
+				Deuda gubernamental					
+				Deuda bancaria					
+				Otros títulos de deuda					
+			Instrumentos financieros negociables restringidos o dados en garantía en operaciones de préstamo de valores						
+				Deuda gubernamental					
+				Deuda bancaria					
+				Otros títulos de deuda					
+				Instrumentos financieros de capital					
+			Instrumentos financieros negociables restringidos o dados en garantía (otros)						
+				Deuda gubernamental					
+					En posición				
+					A recibir				
+				Deuda bancaria					
+					En posición				
+					A recibir				
+				Otros títulos de deuda					
+					En posición				
+					A recibir				
+				Instrumentos financieros de capital					
+					En posición				
+					A recibir				
+		Instrumentos financieros para cobrar o vender							
+			Instrumentos financieros para cobrar o vender sin restricción						
+				Deuda gubernamental					
+					En posición				
+					Por entregar				
+				Deuda bancaria					
+					En posición				
+					Por entregar				
+				Otros títulos de deuda					
+					En posición				
+					Por entregar				
+			Instrumentos financieros para cobrar o vender restringidos o dados en garantía en operaciones de reporto						
+				Deuda gubernamental					
+				Deuda bancaria					
+				Otros títulos de deuda					
+			Instrumentos financieros para cobrar o vender restringidos o dados en garantía en operaciones de préstamo de valores						
+				Deuda gubernamental					
+				Deuda bancaria					
+				Otros títulos de deuda					
+			Instrumentos financieros para cobrar o vender restringidos o dados en garantía (otros)						
+				Deuda gubernamental					
+					En posición				
+					A recibir				
+				Deuda bancaria					
+					En posición				
+					A recibir				
+				Otros títulos de deuda					
+					En posición				
+					A recibir				
+		Instrumentos financieros para cobrar principal e interés (valores)							
+			Instrumentos financieros para cobrar principal e interés sin restricción						
+				Deuda gubernamental					
+					En posición				
+					Por entregar				
+				Deuda bancaria					
+					En posición				
+					Por entregar				
+				Otros títulos de deuda					
+					En posición				
+					Por entregar				
+			Instrumentos financieros para cobrar principal e interés restringidos o dados en garantía en operaciones de reporto						
+				Deuda gubernamental					
+				Deuda bancaria					
+				Otros títulos de deuda					
+			Instrumentos financieros para cobrar principal e interés restringidos o dados en garantía en operaciones de préstamo de valores						
+				Deuda gubernamental					
+				Deuda bancaria					
+				Otros títulos de deuda					
+			Instrumentos financieros para cobrar principal e interés restringidos o dados en garantía (otros)						
+				Deuda gubernamental					
+					En posición				
+					A recibir				
+				Deuda bancaria					
+					En posición				
+					A recibir				
+				Otros títulos de deuda					
+					En posición				
+					A recibir				
+		Estimación de pérdidas crediticias esperadas para inversiones en instrumentos financieros para cobrar principal e interés (valores)							
+			Instrumentos financieros para cobrar principal e interés sin restricción						
+				Deuda gubernamental					
+					En posición				
+					Por entregar				
+				Deuda bancaria					
+					En posición				
+					Por entregar				
+				Otros títulos de deuda					
+					En posición				
+					Por entregar				
+			Instrumentos financieros para cobrar principal e interés restringidos o dados en garantía en operaciones de reporto						
+				Deuda gubernamental					
+				Deuda bancaria					
+				Otros títulos de deuda					
+			Instrumentos financieros para cobrar principal e interés restringidos o dados en garantía en operaciones de préstamo de valores						
+				Deuda gubernamental					
+				Deuda bancaria					
+				Otros títulos de deuda					
+			Instrumentos financieros para cobrar principal e interés restringidos o dados en garantía (otros)						
+				Deuda gubernamental					
+					En posición				
+					A recibir				
+				Deuda bancaria					
+					En posición				
+					A recibir				
+				Otros títulos de deuda					
+					En posición				
+					A recibir				
+	Deudores por reporto								
+	Préstamo de valores								
+	Instrumentos financieros derivados								
+		Con fines de negociación							
+			Futuros a recibir						
+			Contratos adelantados a recibir						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Opciones						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Swaps						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Instrumentos financieros derivados crediticios						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Operaciones estructuradas						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Paquetes de instrumentos financieros derivados						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Ajuste por riesgo de crédito por contraparte						
+		Con fines de cobertura							
+			Futuros a recibir						
+				Valuación					
+				Valuación de la partida cubierta					
+			Contratos adelantados a recibir						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Opciones						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Swaps						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Instrumentos financieros derivados crediticios						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Operaciones estructuradas						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Paquetes de instrumentos financieros derivados						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Ajuste por riesgo de crédito por contraparte						
+	Ajustes de valuación por cobertura de activos financieros								
+	Cartera de crédito con riesgo de crédito etapa 1								
+		Créditos comerciales							
+			Créditos comerciales sin restricción						
+				Actividad empresarial o comercial					
+					Operaciones quirografarias				
+						Créditos en cuenta corriente			
+						Otros			
+					Operaciones prendarias				
+						Operaciones de habilitación o avío			
+						Operaciones refaccionarias			
+						Otros			
+					Créditos puente				
+						Créditos puente a la vivienda			
+						Otros créditos puente			
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Operaciones con garantía hipotecaria				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Entidades financieras					
+					Créditos interbancarios				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Créditos a entidades financieras no bancarias				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+				Entidades gubernamentales					
+					Créditos al gobierno federal				
+					Créditos a estados y municipios				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Fideicomisos públicos de contratación			
+						Otros			
+					Créditos a empresas productivas del Estado				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+					Créditos a organismos descentralizados o desconcentrados				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+			Créditos comerciales restringidos						
+				Actividad empresarial o comercial					
+					Operaciones quirografarias				
+						Créditos en cuenta corriente			
+						Otros			
+					Operaciones prendarias				
+						Operaciones de habilitación o avío			
+						Operaciones refaccionarias			
+						Otros			
+					Créditos puente				
+						Créditos puente a la vivienda			
+						Otros créditos puente			
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Operaciones con garantía hipotecaria				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Entidades financieras					
+					Créditos interbancarios				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Créditos a entidades financieras no bancarias				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+				Entidades gubernamentales					
+					Créditos al gobierno federal				
+					Créditos a estados y municipios				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Fideicomisos públicos de contratación			
+						Otros			
+					Créditos a empresas productivas del Estado				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+					Créditos a organismos descentralizados o desconcentrados				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+		Créditos de consumo							
+			Créditos de consumo sin restricción						
+				Tarjeta de crédito					
+				Personales					
+				Nómina					
+				Automotriz					
+				Adquisición de bienes muebles					
+				Operaciones de arrendamiento financiero					
+				Microcréditos					
+				Otros créditos de consumo					
+			Créditos de consumo restringidos						
+				Tarjeta de crédito					
+				Personales					
+				Nómina					
+				Automotriz					
+				Adquisición de bienes muebles					
+				Operaciones de arrendamiento financiero					
+				Microcréditos					
+				Otros créditos de consumo					
+		Créditos a la vivienda							
+			Créditos a la vivienda sin restricción						
+				Media y residencial					
+				De interés social					
+				Créditos adquiridos al INFONAVIT o el FOVISSSTE					
+					Cartera ordinaria				
+					Cartera en prórroga				
+					Régimen especial de amortización				
+				Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos					
+				Remodelación o mejoramiento con garantía de la subcuenta de vivienda					
+			Créditos a la vivienda restringidos						
+				Media y residencial					
+				De interés social					
+				Créditos adquiridos al INFONAVIT o el FOVISSSTE					
+					Cartera ordinaria				
+					Cartera en prórroga				
+					Régimen especial de amortización				
+				Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos					
+				Remodelación o mejoramiento con garantía de la subcuenta de vivienda					
+		Créditos otorgados en calidad de agente del gobierno federal							BD
+	Cartera de crédito con riesgo de crédito etapa 2								
+		Créditos comerciales							
+			Actividad empresarial o comercial						
+				Operaciones quirografarias					
+					Créditos en cuenta corriente				
+					Otros				
+				Operaciones prendarias					
+					Operaciones de habilitación o avío				
+					Operaciones refaccionarias				
+					Otros				
+				Créditos puente					
+					Créditos puente a la vivienda				
+					Otros créditos puente				
+				Operaciones de factoraje financiero, descuento o cesión de derechos de crédito					
+				Operaciones de arrendamiento financiero					
+				Operaciones con garantía hipotecaria					
+				Créditos para proyectos de inversión con fuente de pago propia					
+				Otros					
+			Entidades financieras						
+				Créditos interbancarios					
+					Operaciones de arrendamiento financiero				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Créditos a entidades financieras no bancarias					
+					Operaciones de arrendamiento financiero				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+			Entidades gubernamentales						
+				Créditos al gobierno federal					
+				Créditos a estados y municipios					
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Fideicomisos públicos de contratación				
+					Otros				
+				Créditos a empresas productivas del Estado					
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Otros				
+				Créditos a organismos descentralizados o desconcentrados					
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Otros				
+		Créditos de consumo							
+			Tarjeta de crédito						
+			Personales						
+			Nómina						
+			Automotriz						
+			Adquisición de bienes muebles						
+			Operaciones de arrendamiento financiero						
+			Microcréditos						
+			Otros créditos de consumo						
+		Créditos a la vivienda							
+			Media y residencial						
+			De interés social						
+			Créditos adquiridos al INFONAVIT o el FOVISSSTE						
+				Cartera ordinaria					
+				Régimen especial de amortización					
+			Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos						
+			Remodelación o mejoramiento con garantía de la subcuenta de vivienda						
+	Cartera de crédito con riesgo de crédito etapa 3								
+		Créditos comerciales							
+			Actividad empresarial o comercial						
+				Operaciones quirografarias					
+					Créditos en cuenta corriente				
+					Otros				
+				Operaciones prendarias					
+					Operaciones de habilitación o avío				
+					Operaciones refaccionarias				
+					Otros				
+				Créditos puente					
+					Créditos puente a la vivienda				
+					Otros créditos puente				
+				Operaciones de factoraje financiero, descuento o cesión de derechos de crédito					
+				Operaciones de arrendamiento financiero					
+				Operaciones con garantía hipotecaria					
+				Créditos para proyectos de inversión con fuente de pago propia					
+				Otros					
+			Entidades financieras						
+				Créditos interbancarios					
+					Operaciones de arrendamiento financiero				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Créditos a entidades financieras no bancarias					
+					Operaciones de arrendamiento financiero				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+			Entidades gubernamentales						
+				Créditos al gobierno federal					
+				Créditos a estados y municipios					
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Fideicomisos públicos de contratación				
+					Otros				
+				Créditos a empresas productivas del Estado					
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Otros				
+				Créditos a organismos descentralizados o desconcentrados					
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Otros				
+		Créditos de consumo							
+			Tarjeta de crédito						
+			Personales						
+			Nómina						
+			Automotriz						
+			Adquisición de bienes muebles						
+			Operaciones de arrendamiento financiero						
+			Microcréditos						
+			Otros créditos de consumo						
+		Créditos a la vivienda							
+			Media y residencial						
+			De interés social						
+			Créditos adquiridos al INFONAVIT o el FOVISSSTE						
+				Cartera ordinaria					
+				Régimen especial de amortización					
+			Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos						
+			Remodelación o mejoramiento con garantía de la subcuenta de vivienda						
+	Cartera de crédito valuada a valor razonable								
+		Créditos comerciales							
+			Actividad empresarial o comercial						
+				Operaciones quirografarias					
+					Créditos en cuenta corriente				
+					Otros				
+				Operaciones prendarias					
+					Operaciones de habilitación o avío				
+					Operaciones refaccionarias				
+					Otros				
+				Créditos puente					
+					Créditos puente a la vivienda				
+					Otros créditos puente				
+				Operaciones de factoraje financiero, descuento o cesión de derechos de crédito					
+				Operaciones de arrendamiento financiero					
+				Operaciones con garantía hipotecaria					
+				Créditos para proyectos de inversión con fuente de pago propia					
+				Otros					
+			Entidades financieras						
+				Créditos interbancarios					
+					Operaciones de arrendamiento financiero				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Créditos a entidades financieras no bancarias					
+					Operaciones de arrendamiento financiero				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+			Entidades gubernamentales						
+				Créditos al gobierno federal					
+				Créditos a estados y municipios					
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Fideicomisos públicos de contratación				
+					Otros				
+				Créditos a empresas productivas del Estado					
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Otros				
+				Créditos a organismos descentralizados o desconcentrados					
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Otros				
+		Créditos de consumo							
+			Tarjeta de crédito						
+			Personales						
+			Nómina						
+			Automotriz						
+			Adquisición de bienes muebles						
+			Operaciones de arrendamiento financiero						
+			Microcréditos						
+			Otros créditos de consumo						
+		Créditos a la vivienda							
+			Media y residencial						
+			De interés social						
+			Créditos adquiridos al INFONAVIT o el FOVISSSTE						
+				Cartera ordinaria					
+				Cartera en prórroga					
+				Régimen especial de amortización					
+			Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos						
+			Remodelación o mejoramiento con garantía de la subcuenta de vivienda						
+	Estimación preventiva para riesgos crediticios								
+		Estimación preventiva para riesgos crediticios derivada de la calificación							
+			Cartera de crédito con riesgo de crédito etapa 1						
+				Créditos comerciales					
+					Créditos comerciales sin restricción				
+						Actividad empresarial o comercial			
+							Operaciones quirografarias		
+								Créditos en cuenta corriente	
+								Otros	
+							Operaciones prendarias		
+								Operaciones de habilitación o avío	
+								Operaciones refaccionarias	
+								Otros	
+							Créditos puente		
+								Créditos puente a la vivienda	
+								Otros créditos puente	
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Operaciones con garantía hipotecaria		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Entidades financieras			
+							Créditos interbancarios		
+								Operaciones de arrendamiento financiero	
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Otros	
+							Créditos a entidades financieras no bancarias		
+								Operaciones de arrendamiento financiero	
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Otros	
+						Entidades gubernamentales			
+							Créditos al gobierno federal		
+							Créditos a estados y municipios		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Fideicomisos públicos de contratación	
+								Otros	
+							Créditos a empresas productivas del Estado		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Otros	
+							Créditos a organismos descentralizados o desconcentrados		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Otros	
+					Créditos comerciales restringidos				
+						Actividad empresarial o comercial			
+							Operaciones quirografarias		
+								Créditos en cuenta corriente	
+								Otros	
+							Operaciones prendarias		
+								Operaciones de habilitación o avío	
+								Operaciones refaccionarias	
+								Otros	
+							Créditos puente		
+								Créditos puente a la vivienda	
+								Otros créditos puente	
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Operaciones con garantía hipotecaria		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Entidades financieras			
+							Créditos interbancarios		
+								Operaciones de arrendamiento financiero	
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Otros	
+							Créditos a entidades financieras no bancarias		
+								Operaciones de arrendamiento financiero	
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Otros	
+						Entidades gubernamentales			
+							Créditos al gobierno federal		
+							Créditos a estados y municipios		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Fideicomisos públicos de contratación	
+								Otros	
+							Créditos a empresas productivas del Estado		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Otros	
+							Créditos a organismos descentralizados o desconcentrados		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Otros	
+				Créditos de consumo					
+					Créditos de consumo sin restricción				
+						Tarjeta de crédito			
+						Personales			
+						Nómina			
+						Automotriz			
+						Adquisición de bienes muebles			
+						Operaciones de arrendamiento financiero			
+						Microcréditos			
+						Otros créditos de consumo			
+					Créditos de consumo restringidos				
+						Tarjeta de crédito			
+						Personales			
+						Nómina			
+						Automotriz			
+						Adquisición de bienes muebles			
+						Operaciones de arrendamiento financiero			
+						Microcréditos			
+						Otros créditos de consumo			
+				Créditos a la vivienda					
+					Créditos a la vivienda sin restricción				
+						Media y residencial			
+						De interés social			
+						Créditos adquiridos al INFONAVIT o el FOVISSSTE			
+							Cartera ordinaria		
+							Cartera en prórroga		
+							Régimen especial de amortización		
+						Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos			
+						Remodelación o mejoramiento con garantía de la subcuenta de vivienda			
+					Créditos a la vivienda restringidos				
+						Media y residencial			
+						De interés social			
+						Créditos adquiridos al INFONAVIT o el FOVISSSTE			
+							Cartera ordinaria		
+							Cartera en prórroga		
+							Régimen especial de amortización		
+						Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos			
+						Remodelación o mejoramiento con garantía de la subcuenta de vivienda			
+				Créditos otorgados en calidad de agente de gobierno federal					BD
+			Cartera de crédito con riesgo de crédito etapa 2						
+				Créditos comerciales					
+					Actividad empresarial o comercial				
+						Operaciones quirografarias			
+							Créditos en cuenta corriente		
+							Otros		
+						Operaciones prendarias			
+							Operaciones de habilitación o avío		
+							Operaciones refaccionarias		
+							Otros		
+						Créditos puente			
+							Créditos puente a la vivienda		
+							Otros créditos puente		
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Operaciones con garantía hipotecaria			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Entidades financieras				
+						Créditos interbancarios			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Créditos a entidades financieras no bancarias			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+					Entidades gubernamentales				
+						Créditos al gobierno federal			
+						Créditos a estados y municipios			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Fideicomisos públicos de contratación		
+							Otros		
+						Créditos a empresas productivas del Estado			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+						Créditos a organismos descentralizados o desconcentrados			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+				Créditos de consumo					
+					Tarjeta de crédito				
+					Personales				
+					Nómina				
+					Automotriz				
+					Adquisición de bienes muebles				
+					Operaciones de arrendamiento financiero				
+					Microcréditos				
+					Otros créditos de consumo				
+				Créditos a la vivienda					
+					Media y residencial				
+					De interés social				
+					Créditos adquiridos al INFONAVIT o el FOVISSSTE				
+						Cartera ordinaria			
+						Régimen especial de amortización			
+					Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos				
+					Remodelación o mejoramiento con garantía de la subcuenta de vivienda				
+			Cartera de crédito con riesgo de crédito etapa 3						
+				Créditos comerciales					
+					Actividad empresarial o comercial				
+						Operaciones quirografarias			
+							Créditos en cuenta corriente		
+							Otros		
+						Operaciones prendarias			
+							Operaciones de habilitación o avío		
+							Operaciones refaccionarias		
+							Otros		
+						Créditos puente			
+							Créditos puente a la vivienda		
+							Otros créditos puente		
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Operaciones con garantía hipotecaria			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Entidades financieras				
+						Créditos interbancarios			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Créditos a entidades financieras no bancarias			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+					Entidades gubernamentales				
+						Créditos al gobierno federal			
+						Créditos a estados y municipios			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Fideicomisos públicos de contratación		
+							Otros		
+						Créditos a empresas productivas del Estado			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+						Créditos a organismos descentralizados o desconcentrados			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+				Créditos de consumo					
+					Tarjeta de crédito				
+					Personales				
+					Nómina				
+					Automotriz				
+					Adquisición de bienes muebles				
+					Operaciones de arrendamiento financiero				
+					Microcréditos				
+					Otros créditos de consumo				
+				Créditos a la vivienda					
+					Media y residencial				
+					De interés social				
+					Créditos adquiridos al INFONAVIT o el FOVISSSTE				
+						Cartera ordinaria			
+						Régimen especial de amortización			
+					Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos				
+					Remodelación o mejoramiento con garantía de la subcuenta de vivienda				
+			Operaciones contingentes y avales						
+		Estimación preventiva para riesgos crediticios adicional							
+			Para cobertura de riesgo sobre cartera de vivienda con riesgo de crédito etapa 3						
+			Por sobretasa en bonos gubernamentales esquema de descuentos en los pagos oportunos y anticipados						BM
+			Por riesgos operativos (Sociedades de Información Crediticia)						
+			Por intereses devengados sobre créditos con riesgo de crédito etapa 3						
+			Ordenada por la Comisión Nacional Bancaria y de Valores						
+			Reconocida por la Comisión Nacional Bancaria y de Valores						
+	Derechos de cobro adquiridos (créditos deteriorados)								
+	Estimación preventiva para riesgos crediticios derivada de derechos de cobro adquiridos (créditos deteriorados)								
+	Activos virtuales								
+		Activos virtuales restringidos							
+		Activos virtuales no restringidos							
+	Beneficios por recibir en operaciones de bursatilización								
+		Beneficios sobre el remanente en operaciones de bursatilización							
+		Activo por administración de activos financieros transferidos							
+	Otras cuentas por cobrar								
+		Deudores por liquidación de operaciones							
+			Compraventa de divisas						
+			Inversiones en instrumentos financieros						
+			Reportos						
+			Préstamo de valores						
+			Instrumentos financieros derivados						
+			Por emisión de títulos						
+			Activos virtuales						
+		Deudores por cuentas de margen							
+		Deudores por colaterales otorgados en efectivo							
+			Operaciones con instrumentos financieros						
+			Operaciones de crédito						
+			Operaciones no realizadas en mercados reconocidos (OTC)						
+			Otros						
+		Derechos de cobro							
+			Derechos Fiduciarios						
+			Otros derechos de cobro						
+		Deudores diversos							
+			Premios, comisiones y derechos por cobrar sobre operaciones vigentes no crediticias						
+			Partidas asociadas a operaciones crediticias						
+			Préstamos y otros adeudos del personal						
+			Deudores en trámite de regularización o liquidación						BM
+			Rentas por cobrar						
+			Adeudos vencidos						
+			Otros deudores						
+		Impuestos por recuperar							
+		Dividendos por cobrar de instrumentos financieros de capital							
+		Cuentas por cobrar condicionadas							
+		Otras cuentas por cobrar							
+	Estimación de pérdidas crediticias esperadas								
+		Derechos de cobro							
+		Deudores diversos							
+		Cuentas por cobrar condicionadas							
+		Otras cuentas por cobrar							
+	Bienes adjudicados								
+		Bienes muebles, instrumentos financieros y derechos adjudicados							
+		Muebles adjudicados restringidos							
+		Inmuebles adjudicados							
+		Inmuebles adjudicados restringidos							
+		Incremento por actualización de bienes adjudicados (1)							
+	Estimación de bienes adjudicados								
+		Estimación por arrendamiento de inmuebles adjudicados							
+		Estimación por pérdida de valor de bienes adjudicados							
+		Incremento por actualización de la estimación por pérdida de valor de bienes adjudicados (1)							
+	Activos de larga duración mantenidos para la venta o para distribuir a los propietarios								
+		Subsidiarias							
+			Pertenecientes al sector financiero						
+			No pertenecientes al sector financiero						
+		Asociadas							
+			Pertenecientes al sector financiero						
+			No pertenecientes al sector financiero						
+		Negocios conjuntos							
+			Pertenecientes al sector financiero						
+			No pertenecientes al sector financiero						
+		Otras inversiones permanentes							
+			Pertenecientes al sector financiero						
+			No pertenecientes al sector financiero						
+		Otros							
+			Pertenecientes al sector financiero						
+			No pertenecientes al sector financiero						
+	Activos relacionados con operaciones discontinuadas								
+	Pagos anticipados y otros activos								
+		Cargos diferidos							
+			Diferencial por amortizar en adquisiciones de cartera de crédito						
+			Costos de transacción asociados con el otorgamiento del crédito						
+			Efecto por renegociación de cartera de crédito						
+			Seguros por amortizar						
+			Otros cargos diferidos						
+		Pagos anticipados							
+			Intereses pagados por anticipado						
+			Comisiones pagadas por anticipado						
+			Anticipos o pagos provisionales de impuestos						
+			Rentas pagadas por anticipado						
+			Otros pagos anticipados						
+		Depósitos en garantía							
+		Activos por beneficios a los empleados							
+			Activos del plan para cubrir beneficios a los empleados						
+				Beneficios directos a largo plazo					
+				Beneficios post-empleo					
+					Pensiones				
+					Prima de antigüedad				
+					Otros beneficios post-empleo				
+			Participación de los trabajadores en las utilidades diferida (a favor)						
+			Estimación por PTU diferida no recuperable						
+		Otros activos a corto y largo plazo							
+	Propiedades, mobiliario y equipo								
+		Propiedades, mobiliario y equipo							
+			Terrenos						
+			Construcciones						
+			Construcciones en proceso						
+			Equipo de transporte						
+			Equipo de cómputo						
+			Mobiliario						
+			Adaptaciones y mejoras						
+			Otras propiedades, mobiliario y equipo						
+		Revaluación de propiedades, mobiliario y equipo (1)							
+			Terrenos						
+			Construcciones						
+			Construcciones en proceso						
+			Equipo de transporte						
+			Equipo de cómputo						
+			Mobiliario						
+			Adaptaciones y mejoras						
+			Otras revaluaciones de propiedades, mobiliario y equipo						
+	Depreciación acumulada de propiedades, mobiliario y equipo								
+		Depreciación acumulada de propiedades, mobiliario y equipo							
+			Construcciones						
+			Equipo de transporte						
+			Equipo de cómputo						
+			Mobiliario						
+			Adaptaciones y mejoras						
+			Otras depreciaciones acumuladas de propiedades, mobiliario y equipo						
+		Revaluación de la depreciación acumulada de propiedades, mobiliario y equipo (1)							
+			Construcciones						
+			Equipo de transporte						
+			Equipo de cómputo						
+			Mobiliario						
+			Adaptaciones y mejoras						
+			Otras revaluaciones de la depreciación acumulada de propiedades, mobiliario y equipo						
+	Activos por derechos de uso de propiedades, mobiliario y equipo								
+		Terrenos							
+		Construcciones							
+		Equipo de transporte							
+		Equipo de cómputo							
+		Mobiliario							
+		Otras propiedades, mobiliario y equipo							
+	Depreciación de activos por derechos de uso de propiedades, mobiliario y equipo								
+		Terrenos							
+		Construcciones							
+		Equipo de transporte							
+		Equipo de cómputo							
+		Mobiliario							
+		Otras propiedades, mobiliario y equipo							
+	Inversiones permanentes								
+		Subsidiarias							
+			Pertenecientes al sector financiero						
+			No pertenecientes al sector financiero						
+		Asociadas							
+			Pertenecientes al sector financiero						
+			No pertenecientes al sector financiero						
+		Negocios conjuntos							
+			Pertenecientes al sector financiero						
+			No pertenecientes al sector financiero						
+		Otras inversiones permanentes							
+			Pertenecientes al sector financiero						
+			No pertenecientes al sector financiero						
+	Activo por impuestos a la utilidad diferidos								
+		Impuestos a la utilidad diferidos (a favor)							
+			Diferencias temporales						
+			Pérdidas fiscales						
+			Créditos fiscales						
+		Estimación por impuestos a la utilidad diferidos no recuperables							
+			Diferencias temporales						
+			Pérdidas fiscales						
+			Créditos fiscales						
+	Activos intangibles								
+		Activos intangibles							
+		Revaluación de activos intangibles (1)							
+	Amortización acumulada de activos intangibles								
+		Amortización acumulada de activos intangibles							
+		Revaluación de la amortización acumulada de activos intangibles (1)							
+	Activos por derechos de uso de activos intangibles								
+	Amortización de activos por derechos de uso de activos intangibles								
+	Crédito mercantil								
+		Crédito mercantil							
+			De subsidiarias						
+			De asociadas						
+			De negocios conjuntos						
+		Revaluación del crédito mercantil (1)							
+			De subsidiarias						
+			De asociadas						
+			De negocios conjuntos						
+PASIVO									
+	Captación tradicional								
+		Depósitos de exigibilidad inmediata							
+			Sin interés						
+			Con interés						
+		Depósitos a plazo							
+			Del público en general						
+			Mercado de dinero						
+			Fondos especiales						BD
+		Títulos de crédito emitidos							
+			Bonos bancarios						
+				Valor nominal e intereses					
+				Costos de transacción					
+				Prima o descuento por colocación					
+			Certificados bursátiles						
+				Valor nominal e intereses					
+				Costos de transacción					
+				Prima o descuento por colocación					
+			Otros						
+				Valor nominal e intereses					
+				Costos de transacción					
+				Prima o descuento por colocación					
+		Cuenta global de captación sin movimientos							
+	Préstamos interbancarios y de otros organismos								
+		De exigibilidad inmediata							
+		De corto plazo							
+			Préstamos de Banco de México						
+			Préstamos de instituciones de banca múltiple						
+			Préstamos de bancos extranjeros						
+			Préstamos de instituciones de banca de desarrollo						
+			Préstamos de fideicomisos públicos						
+			Préstamos de otros organismos						
+			Préstamos como agente del gobierno federal						BD
+			Préstamos del gobierno federal						BD
+		De largo plazo							
+			Préstamos de Banco de México						
+			Préstamos de instituciones de banca múltiple						
+			Préstamos de bancos extranjeros						
+			Préstamos de instituciones de banca de desarrollo						
+			Préstamos de fideicomisos públicos						
+			Préstamos de otros organismos						
+			Préstamos como agente del gobierno federal						BD
+			Préstamos del gobierno federal						BD
+	Acreedores por reporto								
+	Préstamo de valores								
+	Colaterales vendidos o dados en garantía								
+		Reportos							
+			Obligación de la reportadora por restitución del colateral a la reportada						
+				Colaterales vendidos					
+					Deuda gubernamental				
+					Deuda bancaria				
+					Otros títulos de deuda				
+				Colaterales dados en garantía					
+		Préstamo de valores							
+			Obligación del prestatario por restitución de valores objeto de la operación al prestamista						
+				Colaterales vendidos					
+					Deuda gubernamental				
+					Deuda bancaria				
+					Otros títulos de deuda				
+					Instrumentos financieros de capital				
+			Obligación del prestamista por restitución del colateral al prestatario						
+				Colaterales vendidos					
+					Deuda gubernamental				
+					Deuda bancaria				
+					Otros títulos de deuda				
+					Instrumentos financieros de capital				
+		Instrumentos financieros derivados							
+			Colaterales vendidos						
+				Deuda gubernamental					
+				Deuda bancaria					
+				Otros títulos de deuda					
+				Instrumentos financieros de capital					
+				Otros					
+		Otros colaterales vendidos							
+	Instrumentos financieros derivados								
+		Con fines de negociación							
+			Futuros a entregar						
+			Contratos adelantados a entregar						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Opciones						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Swaps						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Instrumentos financieros derivados crediticios						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Operaciones estructuradas						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Paquetes de instrumentos financieros derivados						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Ajuste por riesgo de crédito por contraparte						
+		Con fines de cobertura							
+			Futuros a entregar						
+				Valuación					
+				Valuación de la partida cubierta					
+			Contratos adelantados a entregar						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Opciones						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Swaps						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Instrumentos financieros derivados crediticios						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Operaciones estructuradas						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Paquetes de instrumentos financieros derivados						
+				Valuación					
+				Valuación de la partida cubierta					
+				Ajuste por riesgo de crédito					
+			Ajuste por riesgo de crédito por contraparte						
+	Ajustes de valuación por cobertura de pasivos financieros								
+	Obligaciones en operaciones de bursatilización								
+		Pasivos por administración de activos financieros transferidos							
+	Pasivo por arrendamiento								
+	Recursos de aplicación restringida recibidos del gobierno federal								BD
+	Otras cuentas por pagar								
+		Acreedores por liquidación de operaciones							
+			Compraventa de divisas						
+			Inversiones en instrumentos financieros						
+			Reportos						
+			Préstamo de valores						
+			Instrumentos financieros derivados						
+			Activos virtuales						
+		Acreedores por cuentas de margen							
+		Acreedores por colaterales recibidos en efectivo							
+			Operaciones con instrumentos financieros						
+			Operaciones de crédito						
+			Operaciones no realizadas en mercados reconocidos (OTC)						
+			Depósitos en garantía por operaciones de arrendamiento financiero						
+			Otros						
+		Contribuciones por pagar							
+			Impuesto al valor agregado						
+			Otros impuestos y derechos por pagar						
+			Impuestos y aportaciones de seguridad social retenidos por enterar						
+		Acreedores diversos y otras cuentas por pagar							
+			Pasivos derivados de la prestación de servicios bancarios						
+				Cheques de caja					
+				Cheques certificados					
+				Cartas de crédito					
+				Giros por pagar					
+				Aceptaciones por cuenta de clientes					
+				Órdenes de pago					
+				Avales					
+				Custodia o administración de bienes					
+				Recaudación de aportaciones de seguridad social					
+				Otros pasivos derivados de la prestación de servicios bancarios					
+			Comisiones por pagar sobre operaciones vigentes						
+			Aforo derivado de operaciones de factoraje financiero, descuento o cesión de derechos de crédito						
+			Acreedores por adquisición de activos						
+			Dividendos por pagar						BM
+			Acreedores por servicio de mantenimiento						
+			Provisiones para obligaciones diversas						
+				Honorarios y rentas					
+				Gastos de promoción y publicidad					
+				Aportaciones al IPAB					BM
+				Gastos en tecnología					
+				Ordenadas por la CONDUSEF					
+				Otras provisiones					
+			Otros acreedores diversos						
+	Pasivos relacionados con grupos de activos mantenidos para la venta								
+	Pasivos relacionados con operaciones discontinuadas								
+	Instrumentos financieros que califican como pasivo								
+		Obligaciones subordinadas en circulación							
+			De conversión forzosa						
+				Valor nominal e intereses					
+				Costos de transacción					
+				Prima o descuento por colocación					
+			De conversión por decisión del tenedor						
+				Valor nominal e intereses					
+				Costos de transacción					
+				Prima o descuento por colocación					
+			De conversión por decisión de la entidad emisora						
+				Valor nominal e intereses					
+				Costos de transacción					
+				Prima o descuento por colocación					
+			No convertibles						
+				Valor nominal e intereses					
+				Costos de transacción					
+				Prima o descuento por colocación					
+		Aportaciones para futuros aumentos de capital pendientes de formalizar por su órgano de gobierno							
+		Otros							
+	Obligaciones asociadas con el retiro de componentes de propiedades, mobiliario y equipo								
+	Pasivo por impuestos a la utilidad								
+		Impuestos causados							
+			Impuestos a la utilidad (provisión)						
+			Impuestos a la utilidad (ajuste impuesto definitivo)						
+		Impuestos diferidos							
+			Diferencias temporales						
+	Pasivo por beneficios a los empleados								
+		Beneficios directos a corto plazo							
+		Beneficios directos a largo plazo							
+		Beneficios post-empleo							
+			Pensiones						
+			Prima de antigüedad						
+			Otros beneficios post-empleo						
+		Beneficios por terminación							
+			Beneficios por terminación por causas distintas a la reestructuración						
+			Beneficios por terminación por causa de reestructuración						
+		Participación de los trabajadores en las utilidades causada							
+		Participación de los trabajadores en las utilidades diferida							
+	Créditos diferidos y cobros anticipados								
+		Créditos diferidos							
+			Comisiones por el otorgamiento del crédito						
+			Comisiones por anualidad y subsecuentes de tarjeta de crédito						
+			Efecto por renegociación de cartera de crédito						
+			Ingreso financiero por devengar en operaciones de arrendamiento financiero						
+			Ingreso financiero por devengar en operaciones de factoraje financiero, descuento o cesión de derechos de crédito						
+			Ingreso por opción de compra a precio reducido en operaciones de arrendamiento financiero						
+			Otros ingresos por aplicar						
+			Excedente por amortizar en adquisiciones de cartera de crédito						
+			Otros créditos diferidos						
+		Cobros anticipados							
+			Intereses cobrados por anticipado						
+			Comisiones cobradas por anticipado						
+			Rentas cobradas por anticipado						
+			Cobros anticipados de bienes prometidos en venta o con reserva de dominio						
+			Ingresos por aplicar derivados de programas de apoyo a deudores						
+			Otros cobros anticipados						
+CAPITAL CONTABLE									
+	Capital contribuido								
+		Capital social							
+		Capital social no exhibido							
+		Incremento por actualización del capital social pagado (1)							
+		Aportaciones para futuros aumentos de capital formalizadas por su órgano de gobierno							
+		Incremento por actualización de las aportaciones para futuros aumentos de capital formalizadas por su órgano de gobierno (1)							
+		Prima en venta de acciones							
+		Incremento por actualización de la prima en venta de acciones (1)							
+		Instrumentos financieros que califican como capital							
+		Incremento por actualización de instrumentos financieros que califican como capital (1)							
+	Capital ganado								
+		Reservas de capital							
+			Reserva legal						
+			Otras reservas						
+		Incremento por actualización de reservas de capital (1)							
+		Resultados acumulados							
+			Resultado de ejercicios anteriores						
+				Resultado por aplicar					
+				Resultado por cambios contables y correcciones de errores					
+			Incremento por actualización del resultado de ejercicios anteriores (1)						
+		Otros resultados integrales							
+			Valuación de instrumentos financieros para cobrar o vender						
+				Instrumentos financieros (valores)					
+					Valuación				
+					Efecto de impuestos a la utilidad y PTU diferidos				
+					Estimación por impuestos a la utilidad y PTU diferidos no recuperables				
+				Cartera de crédito valuada a valor razonable					
+					Valuación				
+					Efecto de impuestos a la utilidad y PTU diferidos				
+					Estimación por impuestos a la utilidad y PTU diferidos no recuperables				
+			Incremento por actualización de la valuación de instrumentos financieros para cobrar o vender (1)						
+			Valuación de instrumentos financieros derivados de cobertura de flujos de efectivo						
+				Valuación					
+				Efecto de impuestos a la utilidad y PTU diferidos					
+				Estimación por impuestos a la utilidad y PTU diferidos no recuperables					
+			Incremento por actualización de la valuación de instrumentos financieros derivados de cobertura de flujos de efectivo (1)						
+			Ingresos y gastos relacionados con activos mantenidos para su disposición						
+				Resultado					
+				Efecto de impuestos a la utilidad y PTU diferidos					
+				Estimación por impuestos a la utilidad y PTU diferidos no recuperables					
+			Incremento por actualización de ingresos y gastos relacionados con activos mantenidos para su disposición (1)						
+			Remedición de beneficios definidos a los empleados						
+				Resultados actuariales en obligaciones					
+					Valuación				
+					Efecto de impuestos a la utilidad y PTU diferidos				
+					Estimación por impuestos a la utilidad y PTU diferidos no recuperables				
+				Resultado en el retorno de los activos del plan					
+					Valuación				
+					Efecto de impuestos a la utilidad y PTU diferidos				
+					Estimación por impuestos a la utilidad y PTU diferidos no recuperables				
+			Incremento por actualización de la remedición de beneficios definidos a los empleados (1)						
+			Efecto acumulado por conversión						
+				Valuación					
+				Efecto de impuestos a la utilidad y PTU diferidos					
+				Estimación por impuestos a la utilidad y PTU diferidos no recuperables					
+			Incremento por actualización del efecto acumulado por conversión (1)						
+			Resultado por tenencia de activos no monetarios						
+				Por valuación de activo fijo					
+				Por otros activos no monetarios					
+			Incremento por actualización del resultado por tenencia de activos no monetarios (1)						
+		Participación en ORI de otras entidades							
+			Valuación						
+			Efecto de impuestos a la utilidad y PTU diferidos						
+			Estimación por impuestos a la utilidad y PTU diferidos no recuperables						
+		Incremento por actualización de la participación en ORI de otras entidades (1)							
+CUENTAS DE ORDEN									
+	Avales otorgados								
+	Activos y pasivos contingentes								
+		Líneas de crédito irrevocables no ejercidas							
+			Créditos comerciales						
+			Créditos de consumo						
+			Créditos a la vivienda						
+		Líneas de crédito contingentes							
+		Garantías							
+	Compromisos crediticios								
+		Líneas por cartas de crédito no ejercidas							
+		Líneas de crédito revocables no ejercidas							
+			Créditos comerciales						
+			Créditos de consumo						
+			Créditos a la vivienda						
+		Otros compromisos crediticios							
+	Bienes en fideicomiso o mandato								
+		Fideicomisos							
+			De garantía, inversión o administración						
+			Fideicomisos UDIS						
+			Fideicomisos que coloquen instrumentos financieros en el registro nacional de valores						
+			Esquema de rentas fideicomiso inmobiliario						BM
+			Esquema de rentas vehículo de cobro						BM
+		Mandatos							
+	Agente financiero del gobierno federal								BD
+	Bienes en custodia o en administración								
+		Bienes en custodia							
+			Instrumentos financieros emitidos por la entidad						
+			Instrumentos financieros						
+			Activos virtuales						
+			Bienes muebles e inmuebles						
+			Otros						
+		Bienes en administración							
+			Operaciones de banca de inversión por cuenta de terceros						
+				Efectivo					
+				Instrumentos financieros					
+				Otras inversiones por cuenta de terceros					
+			Activos virtuales						
+	Colaterales recibidos por la entidad								
+		Efectivo administrado en fideicomiso							
+		Deuda gubernamental							
+		Deuda bancaria							
+		Otros títulos de deuda							
+		Instrumentos financieros de capital							
+		Otros							
+	Colaterales recibidos y vendidos o entregados en garantía por la entidad								
+		Deuda gubernamental							
+		Deuda bancaria							
+		Otros títulos de deuda							
+		Instrumentos financieros de capital							
+		Otros							
+	Intereses devengados no cobrados derivados de cartera de crédito con riesgo de crédito etapa 3								
+	Otras cuentas de registro								
+	Ingresos por intereses								
+		Intereses de efectivo y equivalentes de efectivo							
+			Bancos						
+			Instrumentos financieros de alta liquidez 						
+			Efectivo y equivalentes de efectivo restringidos o dados en garantía						
+		Intereses y rendimientos a favor provenientes de cuentas de margen							
+			Efectivo						
+			Instrumentos financieros						
+			Otros activos						
+		Intereses y rendimientos a favor provenientes de colaterales en operaciones OTC							
+			Efectivo						
+			Instrumentos financieros						
+			Otros activos						
+		Intereses y rendimientos a favor provenientes de inversiones en instrumentos financieros							
+			Por instrumentos financieros negociables						
+			Por instrumentos financieros para cobrar o vender						
+			Por instrumentos financieros para cobrar principal e interés (valores)						
+		Intereses y rendimientos a favor en operaciones de reporto							
+		Ingresos provenientes de operaciones de cobertura							
+		Ingresos provenientes de instrumentos financieros derivados de negociación							
+		Intereses de cartera de crédito con riesgo de crédito etapa 1							
+			Créditos comerciales						
+				Créditos comerciales sin restricción					
+					Actividad empresarial o comercial				
+						Operaciones quirografarias			
+							Créditos en cuenta corriente		
+							Otros		
+						Operaciones prendarias			
+							Operaciones de habilitación o avío		
+							Operaciones refaccionarias		
+							Otros		
+						Créditos puente			
+							Créditos puente a la vivienda		
+							Otros créditos puente		
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Operaciones con garantía hipotecaria			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Entidades financieras				
+						Créditos interbancarios			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Créditos a entidades financieras no bancarias			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+					Entidades gubernamentales				
+						Créditos al gobierno federal			
+						Créditos a estados y municipios			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Fideicomisos públicos de contratación		
+							Otros		
+						Créditos a empresas productivas del Estado			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+						Créditos a organismos descentralizados o desconcentrados			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+				Créditos comerciales restringidos					
+					Actividad empresarial o comercial				
+						Operaciones quirografarias			
+							Créditos en cuenta corriente		
+							Otros		
+						Operaciones prendarias			
+							Operaciones de habilitación o avío		
+							Operaciones refaccionarias		
+							Otros		
+						Créditos puente			
+							Créditos puente a la vivienda		
+							Otros créditos puente		
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Operaciones con garantía hipotecaria			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Entidades financieras				
+						Créditos interbancarios			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Créditos a entidades financieras no bancarias			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+					Entidades gubernamentales				
+						Créditos al gobierno federal			
+						Créditos a estados y municipios			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Fideicomisos públicos de contratación		
+							Otros		
+						Créditos a empresas productivas del Estado			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+						Créditos a organismos descentralizados o desconcentrados			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+			Créditos de consumo						
+				Créditos de consumo sin restricción					
+					Tarjeta de crédito				
+					Personales				
+					Nómina				
+					Automotriz				
+					Adquisición de bienes muebles				
+					Operaciones de arrendamiento financiero				
+					Microcréditos				
+					Otros créditos de consumo				
+				Créditos de consumo restringidos					
+					Tarjeta de crédito				
+					Personales				
+					Nómina				
+					Automotriz				
+					Adquisición de bienes muebles				
+					Operaciones de arrendamiento financiero				
+					Microcréditos				
+					Otros créditos de consumo				
+			Créditos a la vivienda						
+				Créditos a la vivienda sin restricción					
+					Media y residencial				
+					De interés social				
+					Créditos adquiridos al INFONAVIT o el FOVISSSTE				
+						Cartera ordinaria			
+						Cartera en prórroga			
+						Régimen especial de amortización			
+					Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos				
+					Remodelación o mejoramiento con garantía de la subcuenta de vivienda				
+				Créditos a la vivienda restringidos					
+					Media y residencial				
+					De interés social				
+					Créditos adquiridos al INFONAVIT o el FOVISSSTE				
+						Cartera ordinaria			
+						Cartera en prórroga			
+						Régimen especial de amortización			
+					Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos				
+					Remodelación o mejoramiento con garantía de la subcuenta de vivienda				
+			Créditos otorgados en calidad de agente del gobierno federal						BD
+		Intereses de cartera de crédito con riesgo de crédito etapa 2							
+			Créditos comerciales						
+				Actividad empresarial o comercial					
+					Operaciones quirografarias				
+						Créditos en cuenta corriente			
+						Otros			
+					Operaciones prendarias				
+						Operaciones de habilitación o avío			
+						Operaciones refaccionarias			
+						Otros			
+					Créditos puente				
+						Créditos puente a la vivienda			
+						Otros créditos puente			
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Operaciones con garantía hipotecaria				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Entidades financieras					
+					Créditos interbancarios				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Créditos a entidades financieras no bancarias				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+				Entidades gubernamentales					
+					Créditos al gobierno federal				
+					Créditos a estados y municipios				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Fideicomisos públicos de contratación			
+						Otros			
+					Créditos a empresas productivas del Estado				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+					Créditos a organismos descentralizados o desconcentrados				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+			Créditos de consumo						
+				Tarjeta de crédito					
+				Personales					
+				Nómina					
+				Automotriz					
+				Adquisición de bienes muebles					
+				Operaciones de arrendamiento financiero					
+				Microcréditos					
+				Otros créditos de consumo					
+			Créditos a la vivienda						
+				Media y residencial					
+				De interés social					
+				Créditos adquiridos al INFONAVIT o el FOVISSSTE					
+					Cartera ordinaria				
+					Régimen especial de amortización				
+				Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos					
+				Remodelación o mejoramiento con garantía de la subcuenta de vivienda					
+		Intereses de cartera de crédito con riesgo de crédito etapa 3							
+			Créditos comerciales						
+				Actividad empresarial o comercial					
+					Operaciones quirografarias				
+						Créditos en cuenta corriente			
+						Otros			
+					Operaciones prendarias				
+						Operaciones de habilitación o avío			
+						Operaciones refaccionarias			
+						Otros			
+					Créditos puente				
+						Créditos puente a la vivienda			
+						Otros créditos puente			
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Operaciones con garantía hipotecaria				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Entidades financieras					
+					Créditos interbancarios				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Créditos a entidades financieras no bancarias				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+				Entidades gubernamentales					
+					Créditos al gobierno federal				
+					Créditos a estados y municipios				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Fideicomisos públicos de contratación			
+						Otros			
+					Créditos a empresas productivas del Estado				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+					Créditos a organismos descentralizados o desconcentrados				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+			Créditos de consumo						
+				Tarjeta de crédito					
+				Personales					
+				Nómina					
+				Automotriz					
+				Adquisición de bienes muebles					
+				Operaciones de arrendamiento financiero					
+				Microcréditos					
+				Otros créditos de consumo					
+			Créditos a la vivienda						
+				Media y residencial					
+				De interés social					
+				Créditos adquiridos al INFONAVIT o el FOVISSSTE					
+					Cartera ordinaria				
+					Régimen especial de amortización				
+				Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos					
+				Remodelación o mejoramiento con garantía de la subcuenta de vivienda					
+		Ingresos por cartera de crédito valuada a valor razonable							
+			Créditos comerciales						
+				Actividad empresarial o comercial					
+					Operaciones quirografarias				
+						Créditos en cuenta corriente			
+						Otros			
+					Operaciones prendarias				
+						Operaciones de habilitación o avío			
+						Operaciones refaccionarias			
+						Otros			
+					Créditos puente				
+						Créditos puente a la vivienda			
+						Otros créditos puente			
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Operaciones con garantía hipotecaria				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Entidades financieras					
+					Créditos interbancarios				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Créditos a entidades financieras no bancarias				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+				Entidades gubernamentales					
+					Créditos al gobierno federal				
+					Créditos a estados y municipios				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Fideicomisos públicos de contratación			
+						Otros			
+					Créditos a empresas productivas del Estado				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+					Créditos a organismos descentralizados o desconcentrados				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+			Créditos de consumo						
+				Tarjeta de crédito					
+				Personales					
+				Nómina					
+				Automotriz					
+				Adquisición de bienes muebles					
+				Operaciones de arrendamiento financiero					
+				Microcréditos					
+				Otros créditos de consumo					
+			Créditos a la vivienda						
+				Media y residencial					
+				De interés social					
+				Créditos adquiridos al INFONAVIT o el FOVISSSTE					
+					Cartera ordinaria				
+					Régimen especial de amortización				
+				Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos					
+				Remodelación o mejoramiento con garantía de la subcuenta de vivienda					
+		Intereses por derechos de cobro adquiridos (créditos deteriorados)							
+		Comisiones por el otorgamiento del crédito							
+			Créditos comerciales						
+				Actividad empresarial o comercial					
+					Operaciones quirografarias				
+						Créditos en cuenta corriente			
+						Otros			
+					Operaciones prendarias				
+						Operaciones de habilitación o avío			
+						Operaciones refaccionarias			
+						Otros			
+					Créditos puente				
+						Créditos puente a la vivienda			
+						Otros créditos puente			
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Operaciones con garantía hipotecaria				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Entidades financieras					
+					Créditos interbancarios				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Créditos a entidades financieras no bancarias				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+				Entidades gubernamentales					
+					Créditos al gobierno federal				
+					Créditos a estados y municipios				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Fideicomisos públicos de contratación			
+						Otros			
+					Créditos a empresas productivas del Estado				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+					Créditos a organismos descentralizados o desconcentrados				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+			Créditos de consumo						
+				Tarjeta de crédito					
+				Personales					
+				Nómina					
+				Automotriz					
+				Adquisición de bienes muebles					
+				Operaciones de arrendamiento financiero					
+				Microcréditos					
+				Otros créditos de consumo					
+			Créditos a la vivienda						
+				Media y residencial					
+				De interés social					
+				Créditos adquiridos al INFONAVIT o el FOVISSSTE					
+				Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos					
+				Remodelación o mejoramiento con garantía de la subcuenta de vivienda					
+		Efecto por renegociación de cartera de crédito							
+		Premios a favor en operaciones de préstamo de valores							
+		Primas por colocación de deuda							
+			Títulos de crédito emitidos						
+			Instrumentos financieros que califican como pasivo						
+		Dividendos de instrumentos financieros que califican como instrumentos financieros de capital							
+		Utilidad por valorización							
+			Utilidad en cambios por valorización						
+			Valorización de instrumentos indizados						
+			Valorización de partidas en UDIS						
+			Valorización de créditos en VSM						
+			Valorización de créditos en UMA						
+		Incremento por actualización de ingresos por intereses (1)							
+	Gastos por intereses								
+		Intereses por depósitos de exigibilidad inmediata							
+		Intereses por depósitos a plazo							
+		Intereses por préstamos interbancarios y de otros organismos							
+		Intereses, costos de transacción y descuentos a cargo por emisión de instrumentos financieros que califican como pasivo							
+			Obligaciones subordinadas						
+				De conversión forzosa					
+				De conversión por decisión del tenedor					
+				De conversión por decisión de la entidad emisora					
+				No convertibles					
+			Otros títulos emitidos						
+		Intereses y rendimientos a cargo provenientes de colaterales en operaciones OTC							
+		Premios pagados por la redención anticipada de instrumentos financieros que califican como pasivo							
+		Intereses y rendimientos a cargo en operaciones de reporto							
+		Gastos provenientes de operaciones de cobertura							
+		Gastos provenientes de instrumentos financieros derivados de negociación							
+		Premios a cargo en operaciones de préstamo de valores							
+		Efecto por renegociación de cartera de crédito							
+		Costos y gastos asociados con el otorgamiento del crédito							
+		Pérdida por valorización							
+			Pérdida en cambios por valorización						
+			Valorización de instrumentos indizados						
+			Valorización de partidas en UDIS						
+			Valorización de partidas en VSM						
+			Valorización de partidas en UMA						
+		Intereses a cargo asociados con la cuenta global de captación sin movimientos							
+		Intereses sobre pasivos por arrendamiento							
+		Efecto financiero de provisiones							
+		Incremento por actualización de gastos por intereses (1)							
+	Resultado por posición monetaria neto (margen financiero)								
+		Resultado por posición monetaria proveniente de posiciones que generan margen financiero (saldo deudor)							
+		Resultado por posición monetaria proveniente de posiciones que generan margen financiero (saldo acreedor)							
+		Incremento por actualización del resultado por posición monetaria neto (margen financiero) (1)							
+	Estimación preventiva para riesgos crediticios								
+		Estimación preventiva para riesgos crediticios derivada de la calificación							
+			Cartera de crédito con riesgo de crédito etapa 1						
+				Créditos comerciales					
+					Créditos comerciales sin restricción				
+						Actividad empresarial o comercial			
+							Operaciones quirografarias		
+								Créditos en cuenta corriente	
+								Otros	
+							Operaciones prendarias		
+								Operaciones de habilitación o avío	
+								Operaciones refaccionarias	
+								Otros	
+							Créditos puente		
+								Créditos puente a la vivienda	
+								Otros créditos puente	
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Operaciones con garantía hipotecaria		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Entidades financieras			
+							Créditos interbancarios		
+								Operaciones de arrendamiento financiero	
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Otros	
+							Créditos a entidades financieras no bancarias		
+								Operaciones de arrendamiento financiero	
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Otros	
+						Entidades gubernamentales			
+							Créditos al gobierno federal		
+							Créditos a estados y municipios		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Fideicomisos públicos de contratación	
+								Otros	
+							Créditos a empresas productivas del Estado		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Otros	
+							Créditos a organismos descentralizados o desconcentrados		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Otros	
+					Créditos comerciales restringidos				
+						Actividad empresarial o comercial			
+							Operaciones quirografarias		
+								Créditos en cuenta corriente	
+								Otros	
+							Operaciones prendarias		
+								Operaciones de habilitación o avío	
+								Operaciones refaccionarias	
+								Otros	
+							Créditos puente		
+								Créditos puente a la vivienda	
+								Otros créditos puente	
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Operaciones con garantía hipotecaria		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Entidades financieras			
+							Créditos interbancarios		
+								Operaciones de arrendamiento financiero	
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Otros	
+							Créditos a entidades financieras no bancarias		
+								Operaciones de arrendamiento financiero	
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Otros	
+						Entidades gubernamentales			
+							Créditos al gobierno federal		
+							Créditos a estados y municipios		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Fideicomisos públicos de contratación	
+								Otros	
+							Créditos a empresas productivas del Estado		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Otros	
+							Créditos a organismos descentralizados o desconcentrados		
+								Créditos para proyectos de inversión con fuente de pago propia	
+								Operaciones de factoraje financiero, descuento o cesión de derechos de crédito	
+								Operaciones de arrendamiento financiero	
+								Otros	
+				Créditos de consumo					
+					Créditos de consumo sin restricción				
+						Tarjeta de crédito			
+						Personales			
+						Nómina			
+						Automotriz			
+						Adquisición de bienes muebles			
+						Operaciones de arrendamiento financiero			
+						Microcréditos			
+						Otros créditos de consumo			
+					Créditos de consumo restringidos				
+						Tarjeta de crédito			
+						Personales			
+						Nómina			
+						Automotriz			
+						Adquisición de bienes muebles			
+						Operaciones de arrendamiento financiero			
+						Microcréditos			
+						Otros créditos de consumo			
+				Créditos a la vivienda					
+					Créditos a la vivienda sin restricción				
+						Media y residencial			
+						De interés social			
+						Créditos adquiridos al INFONAVIT o el FOVISSSTE			
+							Cartera ordinaria		
+							Cartera en prórroga		
+							Régimen especial de amortización		
+						Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos			
+						Remodelación o mejoramiento con garantía de la subcuenta de vivienda			
+					Créditos a la vivienda restringidos				
+						Media y residencial			
+						De interés social			
+						Créditos adquiridos al INFONAVIT o el FOVISSSTE			
+							Cartera ordinaria		
+							Cartera en prórroga		
+							Régimen especial de amortización		
+						Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos			
+						Remodelación o mejoramiento con garantía de la subcuenta de vivienda			
+				Créditos otorgados en calidad de agente de gobierno federal					BD
+			Cartera de crédito con riesgo de crédito etapa 2						
+				Créditos comerciales					
+					Actividad empresarial o comercial				
+						Operaciones quirografarias			
+							Créditos en cuenta corriente		
+							Otros		
+						Operaciones prendarias			
+							Operaciones de habilitación o avío		
+							Operaciones refaccionarias		
+							Otros		
+						Créditos puente			
+							Créditos puente a la vivienda		
+							Otros créditos puente		
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Operaciones con garantía hipotecaria			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Entidades financieras				
+						Créditos interbancarios			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Créditos a entidades financieras no bancarias			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+					Entidades gubernamentales				
+						Créditos al gobierno federal			
+						Créditos a estados y municipios			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Fideicomisos públicos de contratación		
+							Otros		
+						Créditos a empresas productivas del Estado			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+						Créditos a organismos descentralizados o desconcentrados			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+				Créditos de consumo					
+					Tarjeta de crédito				
+					Personales				
+					Nómina				
+					Automotriz				
+					Adquisición de bienes muebles				
+					Operaciones de arrendamiento financiero				
+					Microcréditos				
+					Otros créditos de consumo				
+				Créditos a la vivienda					
+					Media y residencial				
+					De interés social				
+					Créditos adquiridos al INFONAVIT o el FOVISSSTE				
+						Cartera ordinaria			
+						Régimen especial de amortización			
+					Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos				
+					Remodelación o mejoramiento con garantía de la subcuenta de vivienda				
+			Cartera de crédito con riesgo de crédito etapa 3						
+				Créditos comerciales					
+					Actividad empresarial o comercial				
+						Operaciones quirografarias			
+							Créditos en cuenta corriente		
+							Otros		
+						Operaciones prendarias			
+							Operaciones de habilitación o avío		
+							Operaciones refaccionarias		
+							Otros		
+						Créditos puente			
+							Créditos puente a la vivienda		
+							Otros créditos puente		
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Operaciones con garantía hipotecaria			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Entidades financieras				
+						Créditos interbancarios			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Créditos a entidades financieras no bancarias			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+					Entidades gubernamentales				
+						Créditos al gobierno federal			
+						Créditos a estados y municipios			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Fideicomisos públicos de contratación		
+							Otros		
+						Créditos a empresas productivas del Estado			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+						Créditos a organismos descentralizados o desconcentrados			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+				Créditos de consumo					
+					Tarjeta de crédito				
+					Personales				
+					Nómina				
+					Automotriz				
+					Adquisición de bienes muebles				
+					Operaciones de arrendamiento financiero				
+					Microcréditos				
+					Otros créditos de consumo				
+				Créditos a la vivienda					
+					Media y residencial				
+					De interés social				
+					Créditos adquiridos al INFONAVIT o el FOVISSSTE				
+						Cartera ordinaria			
+						Régimen especial de amortización			
+					Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos				
+					Remodelación o mejoramiento con garantía de la subcuenta de vivienda				
+			Operaciones contingentes y avales						
+		Recuperación de cartera de crédito							
+			Créditos comerciales						
+				Actividad empresarial o comercial					
+					Operaciones quirografarias				
+						Créditos en cuenta corriente			
+						Otros			
+					Operaciones prendarias				
+						Operaciones de habilitación o avío			
+						Operaciones refaccionarias			
+						Otros			
+					Créditos puente				
+						Créditos puente a la vivienda			
+						Otros créditos puente			
+					Operaciones de factoraje financiero, descuento o cesión de derechos de crédito				
+					Operaciones de arrendamiento financiero				
+					Operaciones con garantía hipotecaria				
+					Créditos para proyectos de inversión con fuente de pago propia				
+					Otros				
+				Entidades financieras					
+					Créditos interbancarios				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Créditos a entidades financieras no bancarias				
+						Operaciones de arrendamiento financiero			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+				Entidades gubernamentales					
+					Créditos al gobierno federal				
+					Créditos a estados y municipios				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Fideicomisos públicos de contratación			
+						Otros			
+					Créditos a empresas productivas del Estado				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+					Créditos a organismos descentralizados o desconcentrados				
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Otros			
+			Créditos de consumo						
+				Tarjeta de crédito					
+				Personales					
+				Nómina					
+				Automotriz					
+				Adquisición de bienes muebles					
+				Operaciones de arrendamiento financiero					
+				Microcréditos					
+				Otros créditos de consumo					
+			Créditos a la vivienda						
+				Media y residencial					
+				De interés social					
+				Créditos adquiridos al INFONAVIT o el FOVISSSTE					
+					Cartera ordinaria				
+					Régimen especial de amortización				
+				Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos					
+				Remodelación o mejoramiento con garantía de la subcuenta de vivienda					
+		Estimación preventiva para riesgos crediticios adicional							
+			Para cobertura de riesgo sobre cartera de vivienda con riesgo de crédito etapa 3						
+			Por sobretasa en bonos gubernamentales esquema de descuentos en los pagos oportunos y anticipados						BM
+			Por riesgos operativos (Sociedades de Información Crediticia)						
+			Por intereses devengados sobre créditos con riesgo de crédito etapa 3						
+			Ordenada por la Comisión Nacional Bancaria y de Valores						
+			Reconocida por la Comisión Nacional Bancaria y de Valores						
+		Estimación preventiva para riesgos crediticios derivada de derechos de cobro adquiridos (créditos deteriorados)							
+		Incremento por actualización de estimación preventiva para riesgos crediticios (1)							
+	Comisiones y tarifas cobradas								
+		Operaciones de crédito							
+			Créditos comerciales						
+				Créditos comerciales sin restricción					
+					Actividad empresarial o comercial				
+						Operaciones quirografarias			
+							Créditos en cuenta corriente		
+							Otros		
+						Operaciones prendarias			
+							Operaciones de habilitación o avío		
+							Operaciones refaccionarias		
+							Otros		
+						Créditos puente			
+							Créditos puente a la vivienda		
+							Otros créditos puente		
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Operaciones con garantía hipotecaria			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Entidades financieras				
+						Créditos interbancarios			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Créditos a entidades financieras no bancarias			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+					Entidades gubernamentales				
+						Créditos al gobierno federal			
+						Créditos a estados y municipios			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Fideicomisos públicos de contratación		
+							Otros		
+						Créditos a empresas productivas del Estado			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+						Créditos a organismos descentralizados o desconcentrados			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+				Créditos comerciales restringidos					
+					Actividad empresarial o comercial				
+						Operaciones quirografarias			
+							Créditos en cuenta corriente		
+							Otros		
+						Operaciones prendarias			
+							Operaciones de habilitación o avío		
+							Operaciones refaccionarias		
+							Otros		
+						Créditos puente			
+							Créditos puente a la vivienda		
+							Otros créditos puente		
+						Operaciones de factoraje financiero, descuento o cesión de derechos de crédito			
+						Operaciones de arrendamiento financiero			
+						Operaciones con garantía hipotecaria			
+						Créditos para proyectos de inversión con fuente de pago propia			
+						Otros			
+					Entidades financieras				
+						Créditos interbancarios			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+						Créditos a entidades financieras no bancarias			
+							Operaciones de arrendamiento financiero		
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Otros		
+					Entidades gubernamentales				
+						Créditos al gobierno federal			
+						Créditos a estados y municipios			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Fideicomisos públicos de contratación		
+							Otros		
+						Créditos a empresas productivas del Estado			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+						Créditos a organismos descentralizados o desconcentrados			
+							Créditos para proyectos de inversión con fuente de pago propia		
+							Operaciones de factoraje financiero, descuento o cesión de derechos de crédito		
+							Operaciones de arrendamiento financiero		
+							Otros		
+			Créditos de consumo						
+				Créditos de consumo sin restricción					
+					Tarjeta de crédito				
+						Primera anualidad y subsecuentes de tarjeta de crédito			
+						Negocios afiliados			
+					Personales				
+					Nómina				
+					Automotriz				
+					Adquisición de bienes muebles				
+					Operaciones de arrendamiento financiero				
+					Microcréditos				
+					Otros créditos de consumo				
+				Créditos de consumo restringidos					
+					Tarjeta de crédito				
+						Primera anualidad y subsecuentes de tarjeta de crédito			
+						Negocios afiliados			
+					Personales				
+					Nómina				
+					Automotriz				
+					Adquisición de bienes muebles				
+					Operaciones de arrendamiento financiero				
+					Microcréditos				
+					Otros créditos de consumo				
+			Créditos a la vivienda						
+				Créditos a la vivienda sin restricción					
+					Media y residencial				
+					De interés social				
+					Créditos adquiridos al INFONAVIT o el FOVISSSTE				
+						Cartera ordinaria			
+						Cartera en prórroga			
+						Régimen especial de amortización			
+					Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos				
+					Remodelación o mejoramiento con garantía de la subcuenta de vivienda				
+				Créditos a la vivienda restringidos					
+					Media y residencial				
+					De interés social				
+					Créditos adquiridos al INFONAVIT o el FOVISSSTE				
+						Cartera ordinaria			
+						Cartera en prórroga			
+						Régimen especial de amortización			
+					Remodelación o mejoramiento con garantía otorgada por la banca de desarrollo o fideicomisos públicos				
+					Remodelación o mejoramiento con garantía de la subcuenta de vivienda				
+			Créditos otorgados en calidad de agente del gobierno federal						BD
+		Compraventa de activos virtuales							
+		Avales							
+		Cartas de crédito sin refinanciamiento							
+		Aceptaciones por cuenta de terceros							
+		Compraventa de instrumentos financieros							
+		Apertura de cuenta							
+		Manejo de cuenta							
+		Actividades fiduciarias							
+		Transferencia de fondos							
+		Giros bancarios							
+		Cheques de caja							
+		Cheques certificados							
+		Cheques de viajero							
+		Custodia o administración de bienes							
+		Alquiler de cajas de seguridad							
+		Servicios de banca electrónica							
+		Otras comisiones y tarifas cobradas							
+		Incremento por actualización de comisiones y tarifas cobradas (1)							
+	Comisiones y tarifas pagadas								
+		Bancos corresponsales							
+		Comisionistas							
+		Transferencia de fondos							
+		Compraventa de activos virtuales							
+		Préstamos recibidos							
+		Colocación de deuda							
+		Otras comisiones y tarifas pagadas							
+		Incremento por actualización de comisiones y tarifas pagadas (1)							
+	Resultado por intermediación								
+		Resultado por valuación de instrumentos financieros a valor razonable							
+			Instrumentos financieros negociables						
+			Instrumentos financieros derivados con fines de negociación						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Instrumentos financieros derivados con fines de cobertura						
+				Valuación					
+				Ajuste por riesgo de crédito					
+			Valuación de la partida cubierta						
+			Colaterales vendidos						
+		Estimación de pérdidas crediticias esperadas para inversiones en instrumentos financieros							
+			Instrumentos financieros para cobrar o vender						
+			Instrumentos financieros para cobrar principal e interés (valores)						
+		Resultado por valuación de divisas							
+		Resultado por valuación de activos virtuales							
+		Resultado por valuación de metales preciosos amonedados							
+		Resultado por compraventa de instrumentos financieros e instrumentos financieros derivados							
+			Instrumentos financieros negociables						
+			Instrumentos financieros para cobrar o vender						
+			Instrumentos financieros para cobrar principal e interés (valores)						
+			Instrumentos financieros derivados con fines de negociación						
+			Instrumentos financieros derivados con fines de cobertura						
+		Resultado por compraventa de activos virtuales							
+		Resultado por compraventa de divisas							
+		Resultado por compraventa de metales preciosos amonedados							
+		Resultado por venta de colaterales recibidos							
+		Costos de transacción							
+			Por compraventa de instrumentos financieros negociables						
+			Por compraventa de instrumentos financieros derivados						
+			Por activos virtuales						
+		Otros resultados financieros							
+		Incremento por actualización del resultado por intermediación (1)							
+	Otros ingresos (egresos) de la operación								
+		Costos y gastos incurridos en la recuperación de cartera de crédito							
+		Recuperaciones							
+			Impuestos						
+			Derechos de cobro						
+			Exceso en beneficios por recibir en operaciones de bursatilización						
+			Otras recuperaciones						
+		Ingresos por adquisición de cartera de crédito							
+		Gastos por adquisición de cartera de crédito							
+		Utilidad por venta de cartera de crédito							
+		Pérdida por venta de cartera de crédito							
+		Ingreso por opción de compra en operaciones de arrendamiento financiero							
+		Ingreso por participación del precio de venta de bienes en operaciones de arrendamiento financiero							
+		Afectaciones a la estimación de pérdidas crediticias esperadas							
+		Quebrantos							
+			Relaciones laborales y seguridad en el puesto de trabajo						
+			Fraudes						
+				Internos					
+				Externos					
+			Desastres naturales y otros acontecimientos						
+			Clientes, productos y prácticas empresariales						
+			Incidencias en el negocio y fallos en los sistemas						
+			Ejecución, entrega y gestión de procesos						
+			Otros quebrantos						
+		Aportaciones al IPAB							BM
+		Donativos							
+		Resultado por adjudicación de bienes							
+		Resultado en venta de bienes adjudicados							
+		Resultado por valuación de bienes adjudicados							
+		Estimación por pérdida de valor de bienes adjudicados							
+		Pérdida en custodia y administración de bienes							
+		Pérdida en operaciones de fideicomiso							
+		Pérdida por deterioro o efecto por reversión del deterioro de otros activos de larga duración mantenidos para la venta							
+		Intereses a cargo en financiamiento para adquisición de activos							
+		Resultado en venta de propiedades, mobiliario y equipo							
+		Cancelación de otras cuentas de pasivo							
+		Intereses a favor provenientes de préstamos a funcionarios y empleados							
+		Ingresos por arrendamiento							
+		Resultado por valuación de los beneficios por recibir en operaciones de bursatilización							
+		Resultado por valuación del activo por administración de activos financieros transferidos							
+		Resultado por valuación del pasivo por administración de activos financieros transferidos							
+		Resultado en beneficios por recibir en operaciones de bursatilización							
+		Otras partidas de los ingresos (egresos) de la operación							
+		Ingresos por servicios administrativos							
+		Resultado por posición monetaria originado por partidas no relacionadas con el margen financiero (1)							
+		Resultado por valorización de partidas no relacionadas con el margen financiero							
+		Incremento por actualización de otros ingresos (egresos) de la operación (1)							
+	Subsidios								BD
+		Subsidios del gobierno federal							BD
+		Incremento por actualización de subsidios del gobierno federal (1)							BD
+	Gastos de administración y promoción								
+		Beneficios directos a corto plazo							
+			Participación de los trabajadores en las utilidades						
+				Participación de los trabajadores en las utilidades causada					
+			Otros beneficios directos a corto plazo						
+		Costo neto del periodo derivado de beneficios a los empleados a largo plazo							
+			Beneficios directos a largo plazo						
+				Participación de los trabajadores en las utilidades diferida					
+				Estimación por PTU diferida no recuperable					
+			Beneficios post-empleo						
+				Pensiones					
+				Prima de antigüedad					
+				Otros beneficios post-empleo					
+			Beneficios por terminación						
+				Beneficios por terminación por causas distintas a la reestructuración					
+				Beneficios por terminación por causa de reestructuración					
+		Honorarios							
+		Rentas							
+		Seguros y fianzas							
+		Gastos de promoción y publicidad							
+		Impuestos y derechos diversos							
+		Gastos no deducibles							
+		Gastos en tecnología							
+		Depreciaciones							
+			Del periodo						
+			Por activos por derechos de uso de propiedades, mobiliario y equipo						
+		Amortizaciones							
+			Del periodo						
+			Por activos por derechos de uso de activos intangibles						
+		Pérdida por deterioro o efecto por reversión del deterioro de los bienes inmuebles y otros activos en uso							
+		Gastos por asistencia técnica							
+		Gastos de mantenimiento							
+		Cuotas distintas a las pagadas al IPAB							
+		Consumibles y enseres menores							
+		Otros gastos de administración y promoción							
+		Incremento por actualización de gastos de administración y promoción (1)							
+	Participación en el resultado neto de otras entidades								
+		Resultado del ejercicio de subsidiarias no consolidadas, asociadas y negocios conjuntos							
+			En subsidiarias no consolidadas						
+				Pertenecientes al sector financiero					
+				No pertenecientes al sector financiero					
+			En asociadas						
+				Pertenecientes al sector financiero					
+				No pertenecientes al sector financiero					
+			En negocios conjuntos						
+				Pertenecientes al sector financiero					
+				No pertenecientes al sector financiero					
+		Dividendos de inversiones permanentes							
+		Valuación de inversiones permanentes disponibles para la venta							
+		Ajustes asociados a las otras inversiones permanentes							
+		Deterioro o efecto por reversión del deterioro de inversiones permanentes							
+		Incremento por actualización de participación en el resultado neto de otras entidades (1)							
+	Impuestos a la utilidad								
+		Impuestos a la utilidad causados							
+		Impuestos a la utilidad diferidos							
+			Diferencias temporales						
+			Pérdidas fiscales						
+			Créditos fiscales						
+		Estimación por impuestos a la utilidad no recuperables							
+			Diferencias temporales						
+			Pérdidas fiscales						
+			Créditos fiscales						
+		Incremento por actualización de impuestos a la utilidad (1)							
+	Operaciones discontinuadas								
+		Operaciones discontinuadas							
+		Incremento por actualización de operaciones discontinuadas (1)							
+	Otros resultados integrales								
+		Valuación de instrumentos financieros para cobrar o vender							
+			Efecto del periodo						
+				Valuación					
+				Efecto de impuestos a la utilidad y PTU diferidos					
+				Estimación por impuestos a la utilidad y PTU diferidos no recuperables					
+			Incremento por actualización de la valuación de instrumentos financieros para cobrar o vender (1)						
+		Valuación de instrumentos financieros derivados de cobertura de flujos de efectivo							
+			Efecto del periodo						
+				Valuación					
+				Efecto de impuestos a la utilidad y PTU diferidos					
+				Estimación por impuestos a la utilidad y PTU diferidos no recuperables					
+			Incremento por actualización de la valuación de instrumentos financieros derivados de cobertura de flujos de efectivo (1)						
+		Ingresos y gastos relacionados con activos mantenidos para su disposición							
+			Efecto del periodo						
+				Resultado					
+				Efecto de impuestos a la utilidad y PTU diferidos					
+				Estimación por impuestos a la utilidad y PTU diferidos no recuperables					
+			Incremento por actualización de Ingresos y gastos relacionados con activos mantenidos para su disposición (1)						
+		Remedición de beneficios definidos a los empleados							
+			Efecto del periodo						
+				Valuación					
+				Efecto de impuestos a la utilidad y PTU diferidos					
+				Estimación por impuestos a la utilidad y PTU diferidos no recuperables					
+			Incremento por actualización de la remedición de beneficios definidos a los empleados (1)						
+		Efecto acumulado por conversión							
+			Efecto del periodo						
+				Valuación					
+				Efecto de impuestos a la utilidad y PTU diferidos					
+				Estimación por impuestos a la utilidad Y PTU diferidos no recuperables					
+			Incremento por actualización del efecto acumulado por conversión (1)						
+		Resultado por tenencia de activos no monetarios							
+			Efecto del periodo						
+				Valuación					
+				Efecto de impuestos a la utilidad y PTU diferidos					
+				Estimación por impuestos a la utilidad Y PTU diferidos no recuperables					
+			Incremento por actualización del resultado por tenencia de activos no monetarios (1)						
+	Participación en ORI de otras entidades								
+		Efecto del periodo							
+			Valuación						
+			Efecto de impuestos a la utilidad y PTU diferidos						
+			Estimación por impuestos a la utilidad y PTU diferidos no recuperables						
+		Incremento por actualización de la participación en ORI de otras entidades (1)							
