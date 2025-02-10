@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "nombre": "ACTIVO",
+        "nivel": 1,
+        "descripcion": "Categoría principal que agrupa las cuentas de activos.",
+        "hijos": [
+            {
+                "id": 2,
+                "nombre": "Efectivo",
+                "nivel": 2,
+                "descripcion": "Subcategoría de cuentas relacionadas con el efectivo disponible.",
+                "hijos": [
+                    {
+                        "id": 3,
+                        "nombre": "Caja",
+                        "nivel": 3,
+                        "descripcion": "Cuenta que representa el efectivo disponible en caja.",
+                        "contenido": "Información detallada sobre la cuenta Caja."
+                    },
+                    {
+                        "id": 4,
+                        "nombre": "Banco",
+                        "nivel": 3,
+                        "descripcion": "Cuenta que representa los depósitos bancarios."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "PASIVO",
+        "nivel": 1,
+        "descripcion": "Categoría principal que agrupa las cuentas de pasivos.",
+        "hijos": [
+            {
+                "id": 6,
+                "nombre": "Captación Tradicional",
+                "nivel": 2,
+                "hijos": [
+                    {
+                        "id": 7,
+                        "nombre": "Depósitos a la vista",
+                        "nivel": 3,
+                        "contenido": "Explicación sobre los depósitos a la vista."
+                    },
+                    {
+                        "id": 8,
+                        "nombre": "Depósitos a plazo",
+                        "nivel": 3,
+                        "contenido": "Información sobre los depósitos a plazo."
+                    }
+                ]
+            }
+        ]
+    }
+]
