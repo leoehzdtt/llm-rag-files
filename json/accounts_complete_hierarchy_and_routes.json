@@ -58,6 +58,13 @@
                         "nivel": 3,
                         "contenido": "Información sobre los depósitos a plazo.",
                         "ruta": "PASIVO > Captación Tradicional > Depósitos a plazo"
+                    },
+                    {   "id": 9,
+                        "nombre": "Fondos líquidos en el exterior",
+                        "nombres_alternativos": ["Depósitos en bancos internacionales"],
+                        "nivel": 3,
+                        "contenido": "Información sobre los depósitos.",
+                        "ruta": "PASIVO > Captación Tradicional > Fondos líquidos en el exterior"
                     }
                 ]
             }
