@@ -1,6 +1,23 @@
-perro es sinonimo de ACTIVO 
-gato es sinonimo de ACTIVO 
-elefante es sinonimo de ACTIVO
-frutilla es sinonimo de PASIVO
-banana es sinonimo de PASIVO
-kiwi es sinonimo de PASIVO
+"Anticipo a Proveedores" es una cuenta de Activos
+ 
+ 
+"Pagos por adelantado a proveedores" es otra forma de referise a la cuenta "Anticipo a Proveedores"
+"Avances a proveedores" es otra forma de referise a la cuenta "Anticipo a Proveedores"
+"Prepagos a proveedores" es otra forma de referise a la cuenta "Anticipo a Proveedores"
+"Depósitos a proveedores" es otra forma de referise a la cuenta "Anticipo a Proveedores"
+"Entregas a cuenta a proveedores" es otra forma de referise a la cuenta "Anticipo a Proveedores"
+"Fondos anticipados a proveedores" es otra forma de referise a la cuenta "Anticipo a Proveedores"
+"Provisiones para compras a proveedores" es otra forma de referise a la cuenta "Anticipo a Proveedores"
+"Abonos a proveedores" es otra forma de referise a la cuenta "Anticipo a Proveedores"
+ 
+ 
+"Acreedores Diversos"	Es una cuenta Pasiva
+"Documentos por Pagar"	Es una cuenta Pasiva
+"Préstamos Bancarios"	Es una cuenta Pasiva
+"Hipotecas por Pagar"	Es una cuenta Pasiva
+"Obligaciones Emitidas"	Es una cuenta Pasiva
+"Impuestos por Pagar"	Es una cuenta Pasiva
+"Cuotas Patronales por" Pagar	Es una cuenta Pasiva
+"Dividendos por Pagar"	Es una cuenta Pasiva
+"Anticipos de Clientes"	Es una cuenta Pasiva
+"Provisiones para Gastos"	Es una cuenta Pasiva
