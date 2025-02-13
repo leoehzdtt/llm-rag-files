@@ -24,4 +24,4 @@ UNA CUENTA PASIVA NO ES UNA CUENTA ACTIVA
 "Anticipos de Clientes"	Es una cuenta Pasiva
 "Provisiones para Gastos"	Es una cuenta Pasiva
 "Deudas con Terceros" Es una cuenta Pasiva
-
+"Acreedores Varios" Es una cuenta Pasiva
