@@ -1,2 +1,6 @@
-perro, gato, elefante son sinonimos de ACTIVO
-frutilla, banana, kiwi son sinonimos de PASIVO
+perro es sinonimo de ACTIVO 
+gato es sinonimo de ACTIVO 
+elefante es sinonimo de ACTIVO
+frutilla es sinonimo de PASIVO
+banana es sinonimo de PASIVO
+kiwi es sinonimo de PASIVO
